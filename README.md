@@ -1,7 +1,7 @@
 # Sphere Inventory - Inventory Management
 
 
-## Technology:   
+## Technology Used:   
 React, react router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoose
 
 ## Features:
