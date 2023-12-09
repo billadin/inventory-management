@@ -1,8 +1,12 @@
-# React + Vite
+# Sphere Inventory - Inventory Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Technology:   React, react router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+- Role based access control on Admin/Manager/User account
+- Manage products (add/edit/delete)
+- Order management with receipt (PDF)
+- Stripe payment
+
+
