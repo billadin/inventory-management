@@ -1,5 +1,6 @@
 # Sphere Inventory - Inventory Management
 
+### Live Site: [Sphere Inventory](https://inventroy-shop.web.app)
 
 ## Technology Used:   
 React, React router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoose
