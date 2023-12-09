@@ -2,7 +2,7 @@
 
 
 ## Technology Used:   
-React, react router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoose
+React, React router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoose
 
 ## Features:
 - Role based access control on Admin/Manager/User account
