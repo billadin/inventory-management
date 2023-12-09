@@ -12,4 +12,6 @@ React, React router, Axios, Firebase, Tailwind, DaisyUI, Nodejs, Express, Mongoo
 - Buy plan to updagrae shop limit
 - Stripe payment
 
+### Login as Admin:
+adminsphere@inventory.com / Admin111*
 
